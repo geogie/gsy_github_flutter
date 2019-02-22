@@ -1,7 +1,7 @@
 import 'dart:async';
-import 'package:redux/redux.dart';
+import 'package:redux/redux.dart';// Store，状态管理
 import 'package:flutter/material.dart';
-import 'package:flutter_redux/flutter_redux.dart';
+import 'package:flutter_redux/flutter_redux.dart';// StoreProvider
 import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 
